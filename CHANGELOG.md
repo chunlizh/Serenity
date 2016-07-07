@@ -1,3 +1,15 @@
+## 2.2.5 (2016-07-04)
+ 
+Features:
+  - ability to generate code for multiple tables at once in sergen (thanks @dfaruque)
+  - ability to choose which files to generate in sergen. e.g. row, endpoint, grid, page... (thanks @dfaruque)
+
+## 2.2.4 (2016-07-02)
+
+Bugfixes:
+  - SaveHandler was updating two times in some cases
+  - dropdown filter text is lost in filter bar after editing second time
+
 ## 2.2.3 (2016-06-11)
 
 Features:
